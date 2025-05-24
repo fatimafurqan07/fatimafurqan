@@ -2,8 +2,8 @@
 Profile stuff
 <h1 align="center">Hey there fellas! I'm Fatima Furqan :)</h1>
 <h3 align="center">A student leveling up web dev skills, currently navigating high school and a 3-year diploma.htt 👾</h3>
-<img align="right" alt="coding" width="400" src="![New Project](https://github.com/user-attachments/assets/bffc2062-01cf-4c49-a0a3-82ce9ed85d0c)
-">
+<img align="right" alt="coding" width="400" src=""C:\Users\PC-15\Downloads\New Project.gif""</img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa-isha&label=Profile%20views&color=0e75b6&style=flat" alt="fatima-furqan" /> </p>
 
 - I’m currently learning **Computer Studies** :)
